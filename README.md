@@ -15,7 +15,7 @@ My goal was to research this opportunity, create a pitch deck for the product, a
 
 **[My Doordash Pitch Presentation](https://docs.google.com/presentation/d/1jQ8zLjzJlzhfd_a3b1TiSMUB3uIakM6R4V804QG9Ul8/edit?usp=sharing)**
 
-[Project Specification](https://review.udacity.com/#!/rubrics/2696/view)
+[Project Specification](https://docs.google.com/document/d/18pfgOg0PlEifvfhNhk4VD5s0NMTydvxBV5D5iXMy2R4/edit?usp=sharing)
 
 [Project Template](https://docs.google.com/presentation/d/1uxPVPwZ7dkHQwb0gRUrjxg43Rh7VOew6avlAUsEFJ2U/copy)
 
@@ -25,7 +25,7 @@ For this project, I went through [the stages of Design Sprint](https://designspr
 
 **[My Doordash Design Sprint](https://drive.google.com/file/d/1gaH-qjBIwth59nPK8Ym24Rq2ypUaZ2QB/view?usp=sharing)**
 
-[Project Specification](https://review.udacity.com/#!/rubrics/2698/view)
+[Project Specification](https://docs.google.com/document/d/1tORecIz3W83evoy6Ae8ABuKpXS7kEPdDPvcJrMzER6c/edit?usp=sharing)
 
 [Project Template](https://docs.google.com/presentation/d/1MKmywd3ZIeoovkC0rLGztIW66RytVBlEa34qZKIoT6U/copy)
 
@@ -41,7 +41,7 @@ For this project, I dealt with various scenarios that a PM typically faces or is
 
 **[My Doordash Product Development Process](https://drive.google.com/file/d/1AMaGeOGsuoDiKKUSG12Nal3sqBz40MGB/view?usp=sharing)**
 
-[Project Specification](https://review.udacity.com/#!/rubrics/2711/view)
+[Project Specification](https://docs.google.com/document/d/1XgQljzYZRd_nJXYeKtJCYCUZ45VptI82xqa9sgwctIc/edit?usp=sharing)
 
 [Project Template](https://docs.google.com/presentation/d/1AeHtZqSGpZQvqxnBBiDusb9jGV0uNHGf_i1FHEECFj0/copy)
 
@@ -67,4 +67,4 @@ week 5:	600
 
 **[My Doordash Product Launch](https://docs.google.com/document/d/1LkspoP-VJT5sE1aU9rZ1J8DuVfFHqsDB4MaXopvu-Jk/edit?usp=sharing)**
 
-[Project Specification](https://review.udacity.com/#!/rubrics/2775/view)
+[Project Specification](https://docs.google.com/document/d/1qt_xKwNr7PVBGcSiObabPhLI_vwmJAiJxgQXArBDj8E/edit?usp=sharing)
